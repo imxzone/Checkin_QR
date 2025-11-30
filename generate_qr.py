@@ -11,7 +11,6 @@ df = pd.read_csv(INPUT_CSV)
 
 for _, row in df.iterrows():
     guest_id = row["guest_id"]
-    # Dữ liệu bạn muốn encode (ở đây chỉ encode guest_id cho đơn giản)
     data = guest_id
 
     img = qrcode.make(data)

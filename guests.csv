@@ -1,4 +1,4 @@
-guest_id,full_name,email,company
-INV001,Nguyen Van A,a@example.com,Cong ty A
-INV002,Tran Thi B,b@example.com,Cong ty B
-INV003,Le Van C,c@example.com,Cong ty C
+guest_id,full_name,email,company,checkin_time,checkin_count
+INV001,Nguyen Van A,a@example.com,Cong ty A,2025-11-30 16:22:14,2.0
+INV002,Tran Thi B,b@example.com,Cong ty B,2025-11-30 16:22:18,1.0
+INV003,Le Van C,c@example.com,Cong ty C,2025-11-30 16:22:32,3.0
